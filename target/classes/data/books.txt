@@ -1,0 +1,5 @@
+ISBN-001|Clean Code|Robert C. Martin|Technology|true
+ISBN-002|The Pragmatic Programmer|David Thomas|Technology|true
+ISBN-003|1984|George Orwell|Dystopian|true
+ISBN-004|To Kill a Mockingbird|Harper Lee|Fiction|true
+ISBN-005|Think and Grow Rich|Napoleon Hill|Self-Help|true
