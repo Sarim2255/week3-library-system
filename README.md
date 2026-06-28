@@ -1,5 +1,5 @@
 # Console-Based Library Management System
-**The Developers Arena — Week 3 Internship Project**
+
 
 A command-line Java application to manage books, members, and borrowing operations with file-based data persistence.
 
@@ -93,7 +93,3 @@ java -jar target/LibraryManagementSystem.jar
 | Static Factory Methods | `Book.fromFileString()` and `Member.fromFileString()` |
 | Java Streams | `searchBooks()` and `searchMembers()` use `.stream().filter()` |
 
----
-
-## Author
-Week 3 Internship Submission — The Developers Arena
